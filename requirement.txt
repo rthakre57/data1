@@ -3,3 +3,4 @@ pandas
 speechrecognition
 pyaudio
 openpyxl
+speech_recognition
